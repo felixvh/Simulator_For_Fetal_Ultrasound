@@ -7,7 +7,7 @@
 - Tolga-Can Çallar (University of Lübeck, Lübeck, Germany)
 
 ## Medical Background
-Forceps or a ventouse suction cup are used during an assisted birth, also referred to as an instrumental delivery. Forceps are slick metal objects that resemble big spoons or tongs. They are contoured to fit the baby's head and are placed around the infant's head and attached at the handles. An obstetrician gently pulls to assist in delivering the baby during a contraction.
+Forceps or a ventouse suction cup are used during an assisted birth, also referred to as an instrumental delivery. Forceps are slick metal objects that resemble big spoons or tongs. They are contoured to fit the baby's head and are placed around the infant's head. An obstetrician gently pulls at the handles to assist in delivering the baby during a contraction.
 
 Before inserting the forcep tools, it is important to know the infant's position within the uterus. Ultrasound imaging is commonly used to obtain this information.
 
