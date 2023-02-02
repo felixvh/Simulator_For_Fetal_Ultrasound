@@ -38,6 +38,12 @@ Development of tool to assign tissue acoustic properties:
 2. Create and define a lookup table (LUT) that assigns the accoustic propeerties to each organ label. 
 3. Develop a tool or module that generates the config file based on the models and the LUT.
 
+## Conclusion & Outlook
+A central challenge regarding surface model based ultrasound simulation, i.e., the generation of realistic mesh models of internal anatomy, is greatly alleviated by the utilization of the Total Segmentator module that allows for the automated segmentation of multiple tissues and organs with appreciabe accuracy.  In terms of various sound propagation and ray-tracing algorithms used ultrasound simulations, the classification of the respective segmentations enables the direct assignment of acoustic tissue properties that were researched and gathered from the related literature to build an tissue-specific acoustic lookup table.
+All of this is in stark contrast to previously proposed approaches that employed laboriously hand-crafted mesh models and manual fine-tuning of acoustic parameters.
+
+Still, a major subject for future research remains: Usage of tissue segmentations delineating the outer border of structures within the framework of surface-based ultrasound simulation, e.g. as implemented in PLUS, disregards intra-structural heterogeneity of tissues and organs. Depending on the respective applications, this may lead to undesirable low simulation-fidelity. Hence, we intend to exploit image intensities within source images of the segmentations to assign intensity-based modification of the acoustic parameters assigned within segmentations.
+
 ## References
 
 - Related project from 35th NA-MIC Project Week: [VR for Birth Delivery Training](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/VRBirthDeliveryTraining/)
