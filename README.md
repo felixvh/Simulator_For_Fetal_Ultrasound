@@ -35,8 +35,14 @@ PLUS Toolkit already offers a [tool](http://perk-software.cs.queensu.ca/plus/doc
 ## Approach and Plan
 Development of tool to assign tissue acoustic properties:
 1. Use the Total Segmentator to create the 3D models with assigned organ definition based on CT data.
-2. Create and define a lookup table (LUT) that assigns the accoustic propeerties to each organ label. 
+2. Create and define a lookup table (LUT) that assigns the accoustic properties to each organ label. 
 3. Develop a tool or module that generates the config file based on the models and the LUT.
+
+## Progress During Project Week
+
+
+
+
 
 ## Conclusion & Outlook
 A central challenge regarding surface model based ultrasound simulation, i.e., the generation of realistic mesh models of internal anatomy, is greatly alleviated by the utilization of the Total Segmentator module that allows for the automated segmentation of multiple tissues and organs with appreciabe accuracy.  In terms of various sound propagation and ray-tracing algorithms used ultrasound simulations, the classification of the respective segmentations enables the direct assignment of acoustic tissue properties that were researched and gathered from the related literature to build an tissue-specific acoustic lookup table.
