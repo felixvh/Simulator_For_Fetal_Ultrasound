@@ -40,8 +40,8 @@ Development of tool to assign tissue acoustic properties:
 
 ## Progress During Project Week
 
-1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types
-2. 
+1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types.
+2. Created a simple Matlab script to generate an XML config file for PLUS with the according accoustic properties for different models based on Total Segmentator
 
 ![alt text](https://github.com/felixvh/Simulator_For_Fetal_Ultrasound/blob/main/Screenshot%202023-02-03%20121357.png)
 
