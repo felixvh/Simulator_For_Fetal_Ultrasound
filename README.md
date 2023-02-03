@@ -40,6 +40,11 @@ Development of tool to assign tissue acoustic properties:
 
 ## Progress During Project Week
 
+1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types
+2. 
+
+
+
 
 
 
