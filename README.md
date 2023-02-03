@@ -43,10 +43,7 @@ Development of tool to assign tissue acoustic properties:
 1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types
 2. 
 
-
-
-
-
+![alt text](https://github.com/felixvh/Simulator_For_Fetal_Ultrasound/blob/main/Screenshot%202023-02-03%20121357.png)
 
 
 ## Conclusion & Outlook
